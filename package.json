@@ -1,0 +1,17 @@
+{
+  "name": "milo-ia",
+  "version": "1.0.0",
+  "description": "Milo IA - Bot multifunción para Discord con IA, AutoMod, moderación, tickets, Premium, imágenes y web.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
